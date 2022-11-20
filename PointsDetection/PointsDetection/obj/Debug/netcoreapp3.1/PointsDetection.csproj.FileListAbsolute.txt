@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.exe
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.deps.json
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.runtimeconfig.json
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.dll
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\bin\Debug\netcoreapp3.1\PointsDetection.pdb
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.dll
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.pdb
+C:\Users\Gabriel\source\repos\PointsDetection\PointsDetection\obj\Debug\netcoreapp3.1\PointsDetection.genruntimeconfig.cache
